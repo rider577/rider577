@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+
+<p>I am a linux guy. Whatever I decide, I don't leave it undone.</p>
 
 <!--
 **rider577/rider577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
