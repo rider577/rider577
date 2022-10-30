@@ -1,5 +1,5 @@
 ### Hi there 👋 
-[![@surajsingh's Holopin board](https://holopin.io/api/user/board?user=surajsingh)](https://holopin.io/@surajsingh)
+[![@surajsingh's Holopin board](https://holopin.me/surajsingh)](https://holopin.io/@surajsingh)
 
 <p>I am a linux guy. Whatever I decide, I don't leave it undone.</p>
 
